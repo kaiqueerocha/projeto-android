@@ -75,7 +75,7 @@ header > p{
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
     color: white;
-    margin-bottom: 10px;
+    padding-bottom: 10px;
 }
 
 nav{
